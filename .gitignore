@@ -1,6 +1,6 @@
-# === Dataset ===
-signatures/
-datasets/
+# # === Dataset ===
+# signatures/
+# datasets/
 
 # === Training Runs & Model Weights ===
 runs/
