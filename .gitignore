@@ -1,33 +1,33 @@
-# # === Dataset ===
-# signatures/
-# datasets/
+# # # === Dataset ===
+# # signatures/
+# # datasets/
 
-# === Training Runs & Model Weights ===
-runs/
+# # === Training Runs & Model Weights ===
+# runs/
 
-# === Python ===
-__pycache__/
-*.py[cod]
-*.egg-info/
-dist/
-build/
-*.egg
+# # === Python ===
+# __pycache__/
+# *.py[cod]
+# *.egg-info/
+# dist/
+# build/
+# *.egg
 
-# === Jupyter Notebook ===
-.ipynb_checkpoints/
+# # === Jupyter Notebook ===
+# .ipynb_checkpoints/
 
-# === OS Files ===
-Thumbs.db
-.DS_Store
-desktop.ini
+# # === OS Files ===
+# Thumbs.db
+# .DS_Store
+# desktop.ini
 
-# === Virtual Environments ===
-venv/
-env/
-.venv/
+# # === Virtual Environments ===
+# venv/
+# env/
+# .venv/
 
-# === IDE ===
-.vscode/
-.idea/
-*.swp
-*.swo
+# # === IDE ===
+# .vscode/
+# .idea/
+# *.swp
+# *.swo
